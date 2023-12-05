@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.image {
+  height: 50%;
+  width: 100%;
+}
+.link {
+  font-size: 20px;
+  text-decoration: none;
+}
